@@ -1,4 +1,4 @@
-# Test_cjmcu-811
+# Sensor de CO2 (cjmcu-811)
 
 Test de CJMCU-811 (CS811)
 
